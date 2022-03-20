@@ -1,2 +1,2 @@
-# JavaScript
+Collection of projects using JavaScript.
  
